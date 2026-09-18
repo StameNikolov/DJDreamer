@@ -1,5 +1,5 @@
 
-import Search from "../components/Search";
+import Search from "../components/search";
 import pcds from "../data/pcds.json";
 import tracks from "../data/tracks.json";
 
