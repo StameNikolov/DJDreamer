@@ -1,0 +1,119 @@
+[
+  {
+    "id": 1,
+    "pcd": 1,
+    "artist": "Larry Martinez & DJ Jacopo",
+    "title": "I Feel",
+    "remix": "Original Mix"
+  },
+  {
+    "id": 2,
+    "pcd": 1,
+    "artist": "Mao Lucchese",
+    "title": "Secondo",
+    "remix": "A. Bertolini Remix"
+  },
+  {
+    "id": 3,
+    "pcd": 1,
+    "artist": "Kiko",
+    "title": "Whisper",
+    "remix": "Ibiza Sunrise Remix"
+  },
+  {
+    "id": 4,
+    "pcd": 1,
+    "artist": "Mode Hookers",
+    "title": "Breathe"
+  },
+  {
+    "id": 5,
+    "pcd": 1,
+    "artist": "Roger Sanchez",
+    "title": "Te Quiero",
+    "remix": "Extended"
+  },
+  {
+    "id": 6,
+    "pcd": 1,
+    "artist": "Lona",
+    "title": "Manta"
+  },
+
+  {
+    "id": 7,
+    "pcd": 2,
+    "artist": "Twisted Society",
+    "title": "Killer",
+    "remix": "Electronic Flips"
+  },
+  {
+    "id": 8,
+    "pcd": 2,
+    "artist": "Underworld",
+    "title": "Beautiful Burnout"
+  },
+  {
+    "id": 9,
+    "pcd": 2,
+    "artist": "Microdynamic",
+    "title": "Debbie Does Dallas"
+  },
+  {
+    "id": 10,
+    "pcd": 2,
+    "artist": "Massimo Santucci",
+    "title": "Get Down",
+    "remix": "S. Weber Remix"
+  },
+  {
+    "id": 11,
+    "pcd": 2,
+    "artist": "Chris Soler & Others",
+    "title": "I'm Gone"
+  },
+  {
+    "id": 12,
+    "pcd": 2,
+    "artist": "Leon Klein",
+    "title": "Vamos a la Playa"
+  },
+
+  {
+    "id": 13,
+    "pcd": 3,
+    "artist": "Portishead",
+    "title": "Roads",
+    "remix": "Sultan & T Remix"
+  },
+  {
+    "id": 14,
+    "pcd": 3,
+    "artist": "T. Gold Diaz & V. Rebolz",
+    "title": "Don't U Want Me"
+  },
+  {
+    "id": 15,
+    "pcd": 3,
+    "artist": "A.P. vs Outwork",
+    "title": "Fiesta Electronica"
+  },
+  {
+    "id": 16,
+    "pcd": 3,
+    "artist": "Steve Angello",
+    "title": "Umbrella"
+  },
+  {
+    "id": 17,
+    "pcd": 3,
+    "artist": "Fragma",
+    "title": "Toca's Miracle"
+  },
+  {
+    "id": 18,
+    "pcd": 3,
+    "artist": "Oscar G & David Perez",
+    "title": "After Glow"
+  }
+]
