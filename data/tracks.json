@@ -1,5 +1,41 @@
 [
   {
+    "pcd": 2,
+    "artist": "Underworld",
+    "title": "Beautiful Burnout",
+    "remix": "Original Mix"
+  },
+  {
+    "pcd": 2,
+    "artist": "Microdynamic",
+    "title": "Debbie Does Dallas",
+    "remix": ""
+  },
+  {
+    "pcd": 2,
+    "artist": "Massimo Santucci",
+    "title": "Get Down",
+    "remix": ""
+  },
+  {
+    "pcd": 3,
+    "artist": "Portishead",
+    "title": "Roads",
+    "remix": "Sultan Remix"
+  },
+  {
+    "pcd": 3,
+    "artist": "Steve Angello",
+    "title": "Umbrella",
+    "remix": "Original Mix"
+  },
+  {
+    "pcd": 3,
+    "artist": "Oscar G & David Perez",
+    "title": "After Glow",
+    "remix": "DJ Nunez Remix"
+  },
+  {
     "pcd": 97,
     "artist": "Kaskade",
     "title": "Be There",
@@ -30,6 +66,30 @@
     "remix": "Avicii Edit"
   },
   {
+    "pcd": 98,
+    "artist": "Spartaque",
+    "title": "Mind Worm",
+    "remix": "Original Mix"
+  },
+  {
+    "pcd": 98,
+    "artist": "DJ Wady",
+    "title": "People",
+    "remix": "Original Mix"
+  },
+  {
+    "pcd": 99,
+    "artist": "Michael Jackson",
+    "title": "Stranger In Moscow",
+    "remix": "Jerome Isma-Ae Remix"
+  },
+  {
+    "pcd": 99,
+    "artist": "Mihai Popoviciu",
+    "title": "Original Track",
+    "remix": ""
+  },
+  {
     "pcd": 100,
     "artist": "James Talk",
     "title": "West End Girls",
@@ -42,21 +102,9 @@
     "remix": "Original Mix"
   },
   {
-    "pcd": 3,
-    "artist": "Portishead",
-    "title": "Roads",
-    "remix": "Sultan Remix"
-  },
-  {
-    "pcd": 3,
-    "artist": "Steve Angello",
-    "title": "Umbrella",
-    "remix": "Original Mix"
-  },
-  {
-    "pcd": 2,
-    "artist": "Underworld",
-    "title": "Beautiful Burnout",
-    "remix": "Original Mix"
+    "pcd": 100,
+    "artist": "Hugg & Pepp",
+    "title": "Sweet Rosie",
+    "remix": "LoaDisco Remix"
   }
 ]
